@@ -1,0 +1,1 @@
+# playright-screenshot-bug-repro
